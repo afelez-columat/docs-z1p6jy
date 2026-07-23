@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://handbook-bnwt7k.prevplay.com/sitemap.xml
